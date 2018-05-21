@@ -6,8 +6,8 @@ This public repository is my notebook for [Crafting Digital History](http://site
 
 Logs for each module of the course will be self contained in their own folder (Getting Started, Module 1, Module 2, etc.). 
 
-0. [Getting Started](tree/master/Getting%20Started/)
-1. [Module 1](tree/master/Module%201)
+0. [Getting Started](/Getting%20Started/)
+1. [Module 1](/Module%201/)
 
 ## Author
 
