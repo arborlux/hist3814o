@@ -2,7 +2,7 @@
 
 ## Website
 
-I didn't have any initial issues on May 8th when I first setup the domain, installed WordPress, and configured an admin email for the website. But I ended up spending about an hour painstakingly trying to modify my orginal theme (Blogera) to allow custom social icons. In the end, I chose to switch to a different theme today (Startup Blog), which comes installed with just about every socialmedia icon that exists. 
+I didn't have any initial issues on May 8th when I first setup the domain, installed WordPress, and configured an admin email for the website. But I ended up spending about an hour painstakingly trying to modify my original theme (Blogera) to allow custom social icons. In the end, I chose to switch to a different theme today (Startup Blog), which comes installed with just about every social media icon that exists. 
 
 ### Hypothesis
 
