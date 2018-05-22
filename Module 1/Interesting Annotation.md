@@ -13,9 +13,9 @@ Personally, I think open source software is an incredible thing. It's surprising
 
 ![alt text][github image]
 
-However, I haven't changed my opinion on the matter. I still think that research publicly funded should be help accountable to the public, just like Government budgets and spending is mostly [held publicly accountable][1]. 
+However, I haven't changed my opinion on the matter. I still think that research publicly funded should be held accountable to the public, just like Government budgets and spending is mostly [held publicly accountable][1]. 
 
-Ian Milligan talks about this in the blog post. But SSHRC publicly releases the names and dollar amounts of all award winners on [Canada's Open Government website][2]. I wonder how much could potentially be saved if all of the research done using this money ([SSHRC's grants and scholarships budget][3] for 2016-17 is $380.2 million!) was open to all researchers. How many researchers do not receive enough funding to complete their research, when it has already been done before and could have/should have been published publicly? 
+Ian Milligan talks about this in his blog post. But SSHRC publicly releases the names and dollar amounts of all award winners on [Canada's Open Government website][2]. I wonder how much could potentially be saved if all of the research done using this money ([SSHRC's grants and scholarships budget][3] for 2016-17 is $380.2 million!) was open to all researchers. How many researchers do not receive enough funding to complete their research, when it has already been done before and could have/should have been published publicly? 
 
 ![alt text][money image]
 
