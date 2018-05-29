@@ -1,4 +1,5 @@
 # Module 2: May 21-28, 2018
+> [Workbook Reference](http://workbook.craftingdigitalhistory.ca/module-2/Exercises/)
 
 ## Exercise 1: The Dream Case
 
