@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>76</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+               <p>From these, and similar causes, "The diseases of pregnancy," Dr. W. thinks, "are aggravated in Negro women. Abortion is so frequent as to lead to an opinion, that means are taken to procure it, on account of ill disposition* to their masters, and other barbarous reasons, for which there can be no excuse." - "Unless means are adopted to bring the women to civilized habits, it will undoubtedly follow that every year will discover a prodigious decrease in our Negro population." (Vol. ii. pp. 199, 200.)</p>
+               <p>"An unlucky" (what a singular epithet to employ on the occasion!) "an unlucky habit of debasement has established itself, by long custom on estates, of book-keepers attaching themselves to mistresses, slaves on the estate," &c. (Vol. ii, p. 252)</p> 
+               <p>But enough of this.</p> 
+               <p>2. General Treatment.</p> 
+               <p>"An imperfect, confused manner is adopted in <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>," <persName key="Williamson, John" from="17??" to="18??" role="Surgeon" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">Dr. Williamson</persName> informs us, "for providing suitably sick Negroes in the Hothouse, or Hospital."</p> 
+               <p>"The utmost" he can say in heir favour is, "that in extreme cases, where danger is represented, the most humane attentions are in general rendered, and nothing wanting which can conduce to comfort or recovery." - chronic diseases, and lues, he says, are little attended to; and though it would be for the interest of the pro-</p> 
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
