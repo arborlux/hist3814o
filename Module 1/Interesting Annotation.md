@@ -5,7 +5,7 @@ date: May 21, 2018
 ---
 
 
-This is in response to the following [annotation](https://hypothes.is/a/00-vsFiFEeijmh-3Z-5QAg) by [Sherlyn Assam](https://github.com/sherlynassam). I found it so interesting because it made me revaluate  my position on Ian Miligan's [blog post](https://ianmilligan.ca/2014/10/23/sshrcs-research-data-archiving-policy-and-historians/) about SSHRC's data accessibility policy. 
+This is in response to the following [annotation](https://hypothes.is/a/00-vsFiFEeijmh-3Z-5QAg) by [Sherlyn Assam](https://github.com/sherlynassam). I found it so interesting because it made me revaluate my position on Ian Milligan's [blog post](https://ianmilligan.ca/2014/10/23/sshrcs-research-data-archiving-policy-and-historians/) about SSHRC's data accessibility policy. 
 
 Originally, I hadn't given much value to the opinion of researchers that would not want to share their research and notes. I made an [annotation](https://hypothes.is/a/yTr1BFyJEeif4UMQj89P1g) explaining my position on the matter. But as Sherlyn puts it, I wouldn't want to share my homework with someone else who didn't bother to put in the effort themselves. It seems petty, but credit is a very important part of being rewarded for an accomplishment that took a lot of effort to achieve. I'm sure the majority of researchers work incredibly hard to win funding competitions to earn their awards to fund their research. The key being *their*. 
 
