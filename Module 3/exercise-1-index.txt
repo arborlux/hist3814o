@@ -1,0 +1,57 @@
+Sender,Recipient,Date
+Sam Houston,J. Pinckney Henderson, December 31 1836
+James Webb,Alc6e La Branche, May 27 1839
+David G. Burnet,Richard G. Dunlap, June 3 1839
+Nathaniel Amory,Richard G. Dunlap, July 24 1839
+David G. Burnet,Richard G. Dunlap, August 19 1839
+T. Dunlap,Richard G. Dunlap, September 28 1839
+Nathaniel Amory,Richard G. Dunlap, October 25 1839
+John Emberson,Albert Sidney Johnston, September 2 1839
+David G. Burnet,Alc6e La Branche, November 29 1839
+David G. Burnet,Alc6e La Branche, December 3 1839
+David G. Burnet,Alc^ La Branche, December 7 1839
+William Scurlock,David G. Burnet, November 30 1839
+William M. Williams,David G. Burnet, November 30 1839
+D. Rowlett,David G. Bumet, undated 61 
+David G. Bumet,Alc6e La Branche, December 16 1839
+David G. Bumet,Alc^ La Branche, December 17 1839
+David G. Bumet,Alc^e La Branche, December 20 1839
+D. Rowlett,David G. Bumet, January 5 1840
+David G. Bumet,Richard G. Dunlap, January 20 1840
+Abner S. Lipscomb,Alc^ La Branche, April 1 1840
+Abner S. Lipscomb,James Hamilton and A. T. Bumley, August 15
+Joseph Waplee,Barnard E. Bee, September 19 1840
+Abner S. Lipscomb,Geo. H. Flood, December 13 1840
+Joseph Waplee,Nathaniel Amory, January 5 1841
+Joseph Waples,Geo. H. Flood, January 28 1841
+Joseph Waplee,Geo. H. Flood, February 2 1841
+Joseph Waples,Geo. H. Flood, February 3 1841
+James S. Mayfield,Geo. H. Flood, February 12 1841
+James S. Mayfield,Barnard E. Bee, February 17 1841
+James S. Mayfield,Barnard E. Bee, March 22 1841
+Geo. H. Flood,Jamee S. Mayfield, March 25 1841
+James S. Mayfield,Geo. H. Flood, March 29 1841
+Geo. H. Flood,James S. Mayfield, March 31 1841
+James S. Mayfield,Barnard E. Bee, April 20 1841
+James S. Mayfield,Nathaniel Amory, April 24 1841
+Samuel A. Roberta,Barnard E. Bee, June 21 1841
+Samuel A. Roberts,Barnard E. Bee, July 8 1841
+Samuel A. Roberta,Joseph Eve, August 11 1841
+Samuel A. Roberta,Joseph Eve, August 17 1841
+Samuel A. Roberts,Barnard E. Bee, September 7 1841
+Sam Houston,Joseph Eve, July 30 1842
+Sam Houston,A. B. Roman, September 12 1842
+Sam Houston,A. B. Roman, October 29 1842
+Isaac Van Zandt,Anson Jones, January 11 1843
+Joseph Eve,Anson Jones, January 11 1843
+Isaac Van Zandt,Anson Jones, January 20 1843
+J. C. Spencer,Isaac Van Zandt, January 17 1843
+T. Hartley Crawford,Wm. Armstrong, January 12 1843
+R. Jones,W. Davenport and G. Loomis, January 13 1843
+Isaac Van Zandt,Anson Jones, January 25 1843
+Joseph Eve,Anson Jones, January 26 1843
+M. E. Hale,Joseph Eve, December 27 1842
+Anson Jones,Isaac Van Zandt, January 31 1843
+Anson Jones,Joseph Eve, February 5 1843
+Anson Jones,Isaac Van Zandt, February 10 1843
+Wm. Henry Daingerfield,Anson Jones, February 14 1843

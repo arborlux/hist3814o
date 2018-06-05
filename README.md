@@ -1,17 +1,21 @@
 # Crafting Digital History
 
-This public repository is my notebook for [Crafting Digital History](http://site.craftingdigitalhistory.ca/) (HIST3814o), a history course offered at [Carleton University](https://carleton.ca/). It will also contain my fail logs as I encounter issues crafting digital history. 
+This public repository is my notebook for [Crafting Digital History][0] (HIST3814o), a third-year history course offered at [Carleton University][1]. It will contain the results of the course's exercises and my fail logs as I encounter issues while learning new ways to craft digital history. 
 
 ## Modules
 
-Logs for each module of the course will be self contained in their own folder (Getting Started, Module 1, Module 2, etc.). 
+Results, notes, and fail logs for each module of the course will be self contained in their own folder (Getting Started, Module 1, Module 2, etc.). 
 
 0. [Getting Started](/Getting%20Started/)
 1. [Module 1](/Module%201/)
 2. [Module 2](/Module%202/)
+3. [Module 3](/Module%203/)
 
 ## Author
 
 Patrick Griffith.
 
 Check out my [blog](http://patrickgriffith.ca) for this course.
+
+[0]: http://site.craftingdigitalhistory.ca/
+[1]: https://carleton.ca/
