@@ -10,6 +10,10 @@ Results, notes, and fail logs for each module of the course will be self contain
 1. [Module 1](/Module%201/)
 2. [Module 2](/Module%202/)
 3. [Module 3](/Module%203/)
+4. [Module 4](/Module%204/)
+
+## Final Project
+> Work in progress
 
 ## Author
 
