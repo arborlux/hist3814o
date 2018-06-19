@@ -18,11 +18,11 @@
                         <p>It was considered by the Board of Governors that Western University was in a peculiarly advantageous position to supply a Hospital Unit. A large number of its students in Medicine and other branches were anxious to enlist; many of its graduates, practicing physicians and surgeons, had expressed their willingness to proceed Overseas as medical Officers, and a number of graduate Nurses of London Hospitals, who were associated with the University, desired to server as Nursing Sisters. The buildings and grounds of the University were available as a training centre during the Summer months. It was anticipated that the proposed Unit could be very rapidly recruited and trained ready for Overseas.</p>
                         <p>Accordingly further urgent representations were made to Ottawa in March, 1916, with the result that authority was received to mobilize the Western University Hospital, officially known No.10 Stationary Hospital, C.E.F.</p>
                         <p>Edwin Seaborn, M.D., a graduate of the University and long associated with its School of medicine and Surgery, was nominated by the Board of Governors as Officer Commanding the Unit, and in due course the appointment was approved by Militia Headquarters, Ottawa.</p>
-                    <table border="1">
-                        <tr bgcolor="#9acd32">
-                            <th style="text-align:left">Place</th>
-                            <th style="text-align:left">Date</th>
-                            <th style="text-align:left">Summary</th>
+                    <table>
+                        <tr>
+                            <th>Place</th>
+                            <th>Date</th>
+                            <th>Summary</th>
                         </tr>
                         <xsl:for-each select="volume/page/event">
                             <tr>
