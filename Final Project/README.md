@@ -1,8 +1,8 @@
-# HISTo 3814 - Final Project - Summer 2018
+# HISTo 3814 - [Final Project][12] - Summer 2018
 ## War Diary - 14th Canadian General Hospital
 
 ### Project Information
-For this project I have transcribed the entries from a War Diary made during World War I from the 14th Canadian General Hospital. Entries range between May 10, 1916 and February 28, 1919.
+For this [project][11] I have transcribed the entries from a War Diary made during World War I from the 14th Canadian General Hospital. Entries range between May 10, 1916 and February 28, 1919.
 
 I have transcribed the entries into plaintext from their original scanned image state that I downloaded from Library and Archives Canada.  
 
@@ -51,3 +51,5 @@ Please note this project has a [GNU General Public License v3.0][9].
 [8]: https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license
 [9]: LICENSE
 [10]: https://arborlux.github.io/hist3814o/Final%20Project/war-diary.xml
+[11]: https://arborlux.github.io/hist3814o/Final%20Project/war-diary.xml
+[12]: http://site.craftingdigitalhistory.ca/final-project-1.html
