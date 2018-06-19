@@ -38,7 +38,7 @@
             <place>LONDON, ONTARIO</place>
             <date>10/05/1916</date>
             <hour></hour>
-            <summary>Hon.Capt. &amp; Quartermaster G.M.BROCK taken on the strength.</summary>
+            <summary>Hon.Capt. &amp;amp; Quartermaster G.M.BROCK taken on the strength.</summary>
         </event>
         <event>
             <place>LONDON, ONTARIO</place>
@@ -977,7 +977,7 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>19/02/1917</date>
             <hour></hour>
-            <summary>Hon. Captain & Chaplain (Rev.) J.O. MURRAY attached for Duty.</summary>
+            <summary>Hon. Captain &amp; Chaplain (Rev.) J.O. MURRAY attached for Duty.</summary>
         </event>
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1143,13 +1143,13 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>27/04/1917</date>
             <hour></hour>
-            <summary>Hon. Captain &amp; Chaplain (Rev.) H. MONTGOMERY attached for Duty from SEAFORD AREA.</summary>
+            <summary>Hon. Captain &amp;amp; Chaplain (Rev.) H. MONTGOMERY attached for Duty from SEAFORD AREA.</summary>
         </event> 
         <event>
             <place>EASTBOURNE, SUSSEX</place>
             <date>27/04/1917</date>
             <hour></hour>
-            <summary>Hon. Captain &amp; Chaplain (Rev.) J.O. MURRAY ceases to be attached on proceeding Overseas.</summary>
+            <summary>Hon. Captain &amp;amp; Chaplain (Rev.) J.O. MURRAY ceases to be attached on proceeding Overseas.</summary>
         </event> 
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1377,5 +1377,6 @@
 </volume>
 <volume name="e001518047" id="2">
     <page name="e001518048" id="1">
+
     </page>
 </volume>
