@@ -11,6 +11,7 @@ I have transcribed the entries into plaintext from their original scanned image 
 I am using Extensible Markup Language to markup the plaintext entries in order to manage the data and I am using Extensible Stylesheet Language Transformations to transform the aforementioned XML into HTML and style it. 
 
 ### Viewing
+* View the project fully marked up [here][10]
 * View the diaries in plaintext with XML markup [here][2]
 * View all of the diary entries in their original state [here][3]
 
@@ -49,3 +50,4 @@ Please note this project has a [GNU General Public License v3.0][9].
 [7]: https://opensource.guide/legal/#does-my-project-need-an-additional-contributor-agreement
 [8]: https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license
 [9]: LICENSE
+[10]: https://arborlux.github.io/hist3814o/Final%20Project/war-diary.xml
