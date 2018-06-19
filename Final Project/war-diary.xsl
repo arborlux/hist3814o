@@ -13,9 +13,8 @@
                             <br />All files related to this project, including references, the scanned images, and further information can be found <a href="https://github.com/arborlux/hist3814o/tree/master/Final%20Project">here</a>.
                             <br />The original scans are provided with Open access on the Library and Archives Canada Portal <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;lang=eng&amp;rec_nbr=2005110&amp;rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106">here</a>.
                         </p>
-                        <p>The following is a transcription of the foreword from the war diary:</p>
                     </div>
-                    <h3>EVENTS LEADING TO FORMATION OF UNIT.</h3>
+                    <h2>EVENTS LEADING TO FORMATION OF UNIT</h2>
                     <div id="card-paragraph">
                         <p>Western University of London, Ontario, between September, 1914 and March, 1916, made several offers to the Canadian Government to organize a complete Hospital Unit for Overseas Service. To these offers the Canadian Government replied that the War Office deemed they had at the time sufficient Units of that nature.</p>
                         <p>It was considered by the Board of Governors that Western University was in a peculiarly advantageous position to supply a Hospital Unit. A large number of its students in Medicine and other branches were anxious to enlist; many of its graduates, practicing physicians and surgeons, had expressed their willingness to proceed Overseas as medical Officers, and a number of graduate Nurses of London Hospitals, who were associated with the University, desired to server as Nursing Sisters. The buildings and grounds of the University were available as a training centre during the Summer months. It was anticipated that the proposed Unit could be very rapidly recruited and trained ready for Overseas.</p>

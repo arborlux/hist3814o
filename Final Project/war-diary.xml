@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="war-diary.xsl"?>
 
-<volume name="e001518029">
+<volume name="e001518029" id="1">
     <date>10/05/1916 - 31/7/1917</date>
-    <page name="e001518031">
+    <page name="e001518031" id="1">
         <event>
             <place>LONDON, ONTARIO</place>
             <date>10/05/1916</date>
@@ -330,9 +330,1052 @@
     <page name="e001518034">
         <event>
             <place>LONDON, ONTARIO</place>
-            <date>1/6/1916</date>
+            <date>27/06/1916</date>
             <hour></hour>
-            <summary></summary>
+            <summary>479 Cases of Surgical Supplies and Hospital Clothing handed over to the Unit Quartermaster by the LONDON, ONTARIO Branch of the Canadian Red Cross Society.</summary>
         </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>29/06/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank struck off the Strength on discharge as medically unfit.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>30/06/1916</date>
+            <hour></hour>
+            <summary>STRENGTH AT DATE - OFFICERS-14. OTHER RANKS, 117.</summary>
+        </event>
+        <event>
+            <place></place>
+            <date></date>
+            <hour></hour>
+            <summary>TRAINING CARRIED ON AS IN PRECEDING MONTH.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>11/07/1916</date>
+            <hour></hour>
+            <summary>Inoculation and Vaccination of All Ranks completed.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>17/07/1916</date>
+            <hour></hour>
+            <summary>Letter from Officer Commanding Unit to A.A.G., Military District No.1, LONDON, ONTARIO, stating Unit complete in every respect and prepared to proceed Overseas immediately.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>31/07/1916</date>
+            <hour></hour>
+            <summary>STRENGTH OF UNIT UNCHANGED THROUGHOUT MONTH.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>08/08/1916</date>
+            <hour></hour>
+            <summary>Letter received from A.A.G., No.1 Mil. List., warning Unit to be in readiness to proceed Overseas at an early date.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>15/08/1916</date>
+            <hour></hour>
+            <summary>Field Day held by Officers and Men of Unit at Western University Campus, LONDON, ONTARIO.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour></hour>
+            <summary>Instructions received from A.A.G., No.1 Mil. Dist., that Unit leave LONDON, ONT., at 12.20 P.M., August 18th/1916, via G.T.R.</summary>
+        </event>
+    </page>
+    <page name="e001518035">
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour></hour>
+            <summary>Inspection of Unit by G.O.C., No.1 Military District and A.D.M.S., No.1 Military District.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour></hour>
+            <summary>Inspection of Orderly Room Records by Officers of Headquarters Staff, No.1 Mil. District.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour></hour>
+            <summary>1500 Cases of Ordnance and Red Cross Supplies forwarded to Montreal for shipment to England.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour></hour>
+            <summary>1 Recruit taken on the Strength, bringing Unit to exact strength of Establishment, vis,- OFFICERS-14, OTHER RANKS-118.</summary>
+        </event>
+        <event>
+            <place>LONDON, ONTARIO</place>
+            <date>16/08/1916</date>
+            <hour>12:20</hour>
+            <summary>Complete Unit comprising Lt. Col. E. SEABORN, Major C.E. BROWN, Major J.C. WILSON, Captains J.S. HUDSON, A. TURNER, E.H. YOUNG, J. MORIARTY, E. BICE, A.E. FRALEIGH, R.H. HENDERSON, C.L. DOUGLAS, C.P. JENTO, G.M. BROCK, and Lieut. J.A. DICKIE, and 118 OTHER RANKS entrained at Grand Trunk Railway Station.
+            </summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>21/08/1916</date>
+            <hour>9:00</hour>
+            <summary>Unit arrived at HALIFAX, N.S.</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>21/08/1916</date>
+            <hour>11:00</hour>
+            <summary>Unit embarked on H.M.T. 2810 (Olympic)</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>21/08/1916</date>
+            <hour></hour>
+            <summary>Lt. Colonel E. SEABORN appointed Principal Medical Officer of the ship.</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>21/08/1916</date>
+            <hour></hour>
+            <summary>Troop Hospital on board taken over by Unit, commenced treatment of all causes of sickness which developed and continued same throughout voyage.</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>24/08/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank of Unit transferred to Shore Hospital, HALIFAX, seriously ill.</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>24/08/1916</date>
+            <hour></hour>
+            <summary>Inspection of Troops and Ship by H.R.H. the Duke of Connaught</summary>
+        </event>
+        <event>
+            <place>HALIFAX, N.S.</place>
+            <date>24/08/1916</date>
+            <hour>12:30</hour>
+            <summary>Ship proceeded from Halifax.</summary>
+        </event>
+        <event>
+            <place>LIVERPOOL</place>
+            <date>30/08/1916</date>
+            <hour>10:00</hour>
+            <summary>Unit disembarked at LIVERPOOL.</summary>
+        </event>
+        <event>
+            <place>LIVERPOOL</place>
+            <date>30/08/1916</date>
+            <hour>10:30</hour>
+            <summary>Unit entrained for SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>30/08/1916</date>
+            <hour>21:00</hour>
+            <summary>Unit arrived at SHORNCLIFFE Station, and proceeded to camp.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>30/08/1916</date>
+            <hour>22:00</hour>
+            <summary>Unit arrived at Canvas Camp, St. Martin’s Plain, SHORNCLIFFE, KENT.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>31/08/1916</date>
+            <hour></hour>
+            <summary>Unit attached to No.8 Canadian Stationary Hospital, St. Martin’s Plain, for Quarters and Rations.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>31/08/1916</date>
+            <hour></hour>
+            <summary>One Casualty having occurred En Route, Strength at this date was - OFFICERs-14. OTHER RANKS-117.</summary>
+        </event>
+    </page>
+    <page name="e001518036">
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>05/09/1916</date>
+            <hour>10:00</hour>
+            <summary>Unit inspected at Sir John Moore’s Plain, SHORNCLIFFE, by A.D.M.S., Canadian Training Division, Shorncliffe.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>08/09/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank preceded On command to Canadian School of Cookery.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>13/09/1916</date>
+            <hour></hour>
+            <summary>Camp visited by Director of Medical Services, Canadian Contigents.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>Major C.K. BROWN, Captains A. TURNER, J. MORIARTY, E.H. YOUNG, and ten Other Ranks priced On Command for Instructional purposes to Granville Canadian Special Hospital, Ramsgate.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>Captain J.S. HUDSON proceeded On Command for Instructional purposes to Canadian Cavalry Corps, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>Captains K.BICE, C.L. DOUGLAS, C.P. JENTO, and 36 Other Ranks proceed ON Command for Instructional Purposes to Moore Barracks Canadian Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>Captain A.E. FRALEIGH and 26 Other Ranks proceeded on Command for Instructional purposes to Shorncliffe Military Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>Captain R.H. HENDERSON proceeded On Command for Instructional purposes to A.D.M.S., Canadians, FOLKESTONE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>15/09/1916</date>
+            <hour></hour>
+            <summary>1 Other Ranks proceeded to Canadian Pay Office, London, for duty.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>18/09/1916</date>
+            <hour></hour>
+            <summary>Capt. C.L. DOUGLAS transferred from Moore Barracks Hospital to No.2 Canadian Mobile Laboratory, FOLKESTONE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>18/09/1916</date>
+            <hour></hour>
+            <summary>3 Other Ranks proceed On Command for Instructional purposes, to Moore Barracks Canadian Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>20/09/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank transferred from Moore Barracks Hospital to No.2 Canadian Mobile Laboratory, FOLKESTONE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>21/09/1916</date>
+            <hour></hour>
+            <summary>20 Other Ranks proceeded On Command for Instructional purposes to Shorncliffe Military Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>23/09/1916</date>
+            <hour></hour>
+            <summary>Major J.C. WILSON proceeded On Command to Canadian Red Cross Special Hospital, BUITON.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>25/09/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank returned to Unit from Command at Moore Barracks Canadian Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>30/09/1916</date>
+            <hour></hour>
+            <summary>Disposition of Unit on last day of month as follows:- ON COMMAND - OFFICERS, 11. OTHER RANKS, 96. REMAINING IN CAMP - OFFICERS, 3. OTHER RANKS, 21.</summary>
+        </event>
+        <event>
+            <place></place>
+            <date></date>
+            <hour></hour>
+            <summary>CLIMATIC CONDITIONS - Weather warm throughout month, with considerable amount of rain. Camp muddy at times but owing to altitude and sandy nature of soil no serious inconvenience resulted. Edwin Seaborn Lt.Colonel, Cmdg.No.10 Stationary Hospital, C.E.F.</summary>
+        </event>
+    </page>
+    <page name="e001518037">
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>05/10/1916</date>
+            <hour></hour>
+            <summary>8 Other Ranks proceeded on Command for Instructional purposes to Duchess of Connaught’s Canadian Red Cross Convalescent Hospital, TAPLOW, BUCKS.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>08/10/1916</date>
+            <hour></hour>
+            <summary>Capt. G.M. BROCK and 3 Other Ranks proceeded to SOUTHAMPTON DOCKS for the purpose of checking Medical Stores and Equipment.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>10/10/1916</date>
+            <hour></hour>
+            <summary>Capt. G.M. BROCK returned to Unit from SOUTHAMPTON.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>20/10/1916</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN proceeded On Command to Ontario Military Hospital, ORPINGTON.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>21/10/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank returned to Unit on completion of course at Canadian Cookery School, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>24/10/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank proceeded On Command for Instructional purposes to Moore Barracks Canadian Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>31/10/1916</date>
+            <hour></hour>
+            <summary>DISPOSITION OF UNIT AT THIS DATE:- ON COMMAND - OFFICERS, 12. OTHER RANKS, 13. REMAINING IN CAMP - OFFICERS, 2. OTHER RANKS, 13.</summary>
+        </event>
+        <event>
+            <place></place>
+            <date></date>
+            <hour></hour>
+            <summary>Weather comparatively warm during month. Violent gales were experienced during latter part of month. Marquees were repeatedly blown down and most of these were replaced by Bell tents.</summary>
+        </event>
+        <event>
+            <place></place>
+            <date></date>
+            <hour></hour>
+            <summary>All personnel remaining in camp employed on camp duties and fatigues.</summary>
+        </event>
+        <event>
+            <place></place>
+            <date></date>
+            <hour></hour>
+            <summary>Air Raid warnings frequent, but at no time, so far as is known, were hostile aircraft in the immediate vicinity of the camp. Edwin Seaborn Lt.Colonel, Cmdg.No.10 Canadian Stationary Hospital.</summary>
+        </event>
+    </page>
+    <page name="e001518038">
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>01/11/1916</date>
+            <hour>14:00</hour>
+            <summary>Letter received from A.D.M.S., Canadian Training Division, SHORNCLIFFE, directing that Lt.Colonel E. SEABORN, two Medical Officers, Quartermaster and 35 Other Ranks report to D.A.D.M.S., Canadians, SEAFORD, for the purpose of taking over Raven’s Croft Military Hospital.</summary>
+        </event> 
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>02/11/1916</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN, Major J.C. WILSON, Capt. A.E. FRALEIGH and 20 Other Ranks recalled from Command.</summary>
+        </event> 
+        <event>
+            <place>SHORNCLIFFE, KENT</place>
+            <date>02/11/1916</date>
+            <hour>9:00</hour>
+            <summary>Lt.Colonel E.Seaborn, Major J.C. WILSON, Captains A.E. RALEIGH and G.M. BROCK, Lieut. J.A. DICKIE and 33 Other Ranks proceeded by rail to SEAFORD, SUSSEX.</summary>
+        </event> 
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>02/11/1916</date>
+            <hour>18:00</hour>
+            <summary>Details as above arrived at SEAFORD Station and marched to CHYNGTON CAMP (1 Mile East).</summary>
+        </event> 
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>02/11/1916</date>
+            <hour></hour>
+            <summary>Unit attached to 103rd Battalion, C.E.F., for Quarters and Rations.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>03/11/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>05/11/1916</date>
+            <hour></hour>
+            <summary>Raven’s Croft Military Hospital taken over through Board of Survey from Imperial authorities and established as Headquarters of Unit. Bed capacity approximately 100. About 75 Imperial patients in Hospital at time of taking over were treated until their recovery or transfer to Imperial Hospitals. Chyngton Camp in its earliest stages as a Canadian Camp at this date, about three Battalions being quartered there in hutments. Raven’s Croft Hospital a School building but occupied by the R.A.M.C., as a Military Hospital since 1914.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>08/11/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>11/11/1916</date>
+            <hour></hour>
+            <summary>2 Other Ranks recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>13/11/1916</date>
+            <hour></hour>
+            <summary>Captain C.P. JENTO and 1 Other Rank recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>25/11/1916</date>
+            <hour></hour>
+            <summary>Nursing Sisters A.HICKS, J. MACALLUM and A.E. WHITELY taken on the Strength on transfer from Duchess of Connaught’s Canadian Red Cross Hospital, TAPLOW.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>25/11/1916</date>
+            <hour></hour>
+            <summary>Nursing Sister E. ORME taken on the Strength on transfer from Moore Barracks Canadian Red Cross Special Hospital, BUXTON.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>28/11/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank stuck off Strength on transfer to Moore Barracks Canadian Hospital, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/11/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on Strength on transfer from C.A.M.C. Training School, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/11/1916</date>
+            <hour></hour>
+            <summary>Many new Battalions arrived in camp direct from Canada during the month. A high rate of sickness developed amongst these new arrivals, due largely to the unaccustomed dampness of the English climate.</summary>
+        </event>
+    </page>
+    <page name="e001518039">
+    <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/11/1916</date>
+            <hour></hour>
+            <summary>This was especially so in the case of North american Indian troops, and of the few deaths occurring in Hospital the majority were Indians. Ailments mainly bronchial and pulmonary. Measles, Mumps and other infectious diseases very prevalent and the capacity of the Hospital was greatly overtaxed to accommodate the patients. Owing to total lack of Surgical, Laboratory and X-ray facilities the majority of surgical and special cases were transferred to other hospitals for treatment, notably 2nd Eastern General Hospital, BRIGHTON. Three ambulances were in use at this time.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>05/12/1916</date>
+            <hour></hour>
+            <summary>1 Other Rank recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>06/12/1916</date>
+            <hour></hour>
+            <summary>Number of patients in excess of bed capacity of Hospital temporarily accommodated on mattresses on floor, etc.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>09/12/1916</date>
+            <hour></hour>
+            <summary>Authority received from A.D.M.S., Brighton to use ward in Seaside Convalescent Hospital, SEAFORD, as auxiliary.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>09/12/1916</date>
+            <hour></hour>
+            <summary>8 Other Ranks recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>16/12/1916</date>
+            <hour></hour>
+            <summary>“Southlands” and “Hawkswick” buildings, near Raven’s Croft Hospital, taken over as auxiliary Hospitals for infectious cases. Bed capacity of each building approximately 50.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>20/12/1916</date>
+            <hour></hour>
+            <summary>11 Other Ranks recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/12/1916</date>
+            <hour></hour>
+            <summary>2 Other Ranks struck off Strength on discharge to Canada as medically unfit.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/12/1916</date>
+            <hour></hour>
+            <summary>Average number of patients during first half of month - 125; during latter half - 175.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>30/12/1916</date>
+            <hour></hour>
+            <summary>Personnel present at date:- OFFICERS, 6; NURSING SISTERS, 6; OTHER RANKS, 47.</summary>
+        </event>
+    </page>
+    <page name="e001518040">
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>06/01/1917</date>
+            <hour></hour>
+            <summary>Few cases of Cerebro-Spinal Meningitis developed amongst patients in Hospital. Hospital and Staff placed under Quarantine. Cultures taken of all patients and personnel in Hospital.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>10/01/1917</date>
+            <hour></hour>
+            <summary>Cultures of whole staff proved negative. Quarantine lifted.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>17/01/1917</date>
+            <hour></hour>
+            <summary>Authority received for Unit to take over All Saints’ Hospital, EASTBOURNE, re-named Canadian Military Hospital, EASTBOURNE. Same to be used as Headquarters of Unit and Central Hospital. Raven’s Croft, Hawkswick and Southlands Hospitals, SEAFORD, to be retained as auxiliaries.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>17/01/1917</date>
+            <hour></hour>
+            <summary>Major C.E. BROWN, Captains J.S. HUDSON, A. TURNER, E.H. YOUNG, J. MORIARTY and 53 Other Rank recalled from Command.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>21/01/1917</date>
+            <hour></hour>
+            <summary>Canadian Military Hospital, EASTBOURNE opened and established as headquarters of Unit.</summary>
+        </event>
+        <event>
+            <place>SEAFOOD, SUSSEX</place>
+            <date>21/01/1917</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN, Major J.C. WILSON, Captains J.S. HUDSON, A. TURNER, E.H. YOUNG, J. MORIARTY, G.M. BROCk, Lieut. J.A. DICKIE and 65 Other Ranks proceeded to Canadian Military Hospital, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters A. HICKS, E. ORME, S.B. POPHAM, J. MACALLUM, B.M. WILSON and A.E. WHITELY proceeded to Canadian Military Hospital, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/01/1917</date>
+            <hour></hour>
+            <summary>Detachment comprising Major C.E. BROWN, Captains A.E. FRALEIGH and C.P. JENTO, and 51 Other Ranks remained at SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/01/1917</date>
+            <hour></hour>
+            <summary>Canadian Military Hospital, EASTBOURNE, composed of two large substantial brick buildings, formerly occupied as a Church of England Convalescent Home and Annex. Total estimated bed capacity - 500. At this date Hospital was not equipped with Surgical, X-Ray or Pathological apparatus. Advices from Director of Medical Services state that it is the intention to treat Overseas Casualties in this Hospital as soon as fully equipped.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>22/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters C.A. KING and B.M. RICHARD taken on the Strength on transfer from Moore Barracks Canadian Hospital.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>22/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters G. MCCUE and A.L. MCPHEE taken on the Strength on transfer Canadian Convalescent Hospital, Yearwood Park, WOKINGHAM.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>23/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister E.A. DAVIES taken on the Strength on transfer from No.9 Can. Stationary Hospital.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>24/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters V.H. KEENE and M.I. MACROBERTS taken on the Strength on transfer from West Cliff Canadian Hospital, FOLKESTONE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/01/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J. GLENDENNING, P.A. IVEY, M.F. PARKING attached for duty from C.A.M.C. Training School.</summary>
+        </event>
+    </page>
+    <page name="e001518041">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/01/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank returned from Command.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/01/1917</date>
+            <hour></hour>
+            <summary>Dispatch and Ambulance Service twice daily between Eastbourne and Seaford (nine miles) inaugurated during month. Hospitals under Headquarters, Seaford, for Discipline, and within. Average number of patients for month (Canadian Military Hospital, Eastbourne and Raven’s Croft Military Hospital, Seaford) - 180.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/02/1917</date>
+            <hour></hour>
+            <summary>Captain R.H. HENDERSON recalled from Command.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>03/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister C.S.T. PHILIP attached for duty from C.A.M.C. Training School, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>05/02/1917</date>
+            <hour></hour>
+            <summary>Matron H.K. DULMAGE taken on the Strength on transfer from C.A.M.C. Training School, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>05/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters L.M. ARMSTRONG, M. CORNELL, E.B. FORSYTH, M.L. SHEDDER and A.W. WILSON attached for duty from C.A.M.C. Training School, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/02/1917</date>
+            <hour></hour>
+            <summary>Captain K. BICE recalled from Command.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister E. ORME granted Leave of Absence from 12/2/17 to 5/3/17 on recommendation of Medical Board.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/02/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank—transferred to Military Hospital, HALIFAX—taken on the Strength on re-joining unit.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>17/02/1917</date>
+            <hour></hour>
+            <summary>Major C.E. BROWN granted Leave of Absence from 17/2/17 to 31/3/17, with permission to proceed to Canada, without expense to the Public.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>17/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister F. COLLYER taken on the Strength on transfer from C.A.M.C. Training School.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>19/02/1917</date>
+            <hour></hour>
+            <summary>Hon. Captain & Chaplain (Rev.) J.O. MURRAY attached for Duty.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister O.K. ISMAY taken on the Strength on transfer from C.A.M.C. Training School.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>22/02/1917</date>
+            <hour></hour>
+            <summary>First Overseas Casualties admitted to Canadian Military Hospital, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>24/02/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters C.A. KING, S.B. POPHAM and A.E. WHITELY granted Leave of Absence from 24/2/17 to 10/3/17.</summary>
+        </event>
+    </page>
+    <page name="e001518042">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/02/1917</date>
+            <hour></hour>
+            <summary>Captain C.L. DOUGLAS recalled from Command.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>28/02/1917</date>
+            <hour></hour>
+            <summary>Average Number of Patients during month—200. (Canadian Military Hospital, EASTBOURNE and Raven’s Croft Military Hospital, SEAFORD). Strength of Unit at date:- OFFICERS, 14. NURSING SISTERS, 21. OTHER RANKS, 117. All Nursing Sisters and about 70 percent of other personnel employed at Canadian Military Hospital, EASTBOURNE. Officers and Other Ranks detailed for Duty between EASTBOURNE and SEAFORD from time to time to meet the varying requirements of auxiliary hospitals.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/03/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters A. HICKS and B.M. RICHARD granted Leave of Absence from 1/3/17 to 15/3/17.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/03/1917</date>
+            <hour></hour>
+            <summary>Pathological Laboratory, Canadian Military Hospital, EASTBOURNE, equipped and ready for use.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>03/03/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank struck off Strength on transfer to 6th Reserve Battalion, C.E.F., SEAFORD.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/03/1917</date>
+            <hour></hour>
+            <summary>Operating Theatre, Canadian Military Hospital, EASTBOURNE, equipped and ready for use.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>09/03/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached for duty with Hospital Representative. Hospital Representatives a newly-organized branch of the Adjutant General’s Dept., for dealing with Casualties on their discharge from Hospitals.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/03/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters E.A. DAVIES, G. MCCUE and A.L. MCPHEE granted Leave of Absence from 6/3/17 to 20/3/17.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>10/03/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters L.M. ARMSTRONG, M. CORNELL, E.B. FORSYTH, M.L SHEDDEN and C.S.Y. PHILIP cease to be attached on posting to C.A.M.C. Training School, SHORNCLIFFE.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>10/03/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank returned from Command at Canadian Pay Office, LONDON.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>22/03/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength on transfer from Canadian Military Police, SHORNCLIFFE.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/03/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength on posting from D.A.D.M.S. Canadians, SEAFORD.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/03/1917</date>
+            <hour></hour>
+            <summary>X-Ray Department, Canadian Military Hospital, EASTBOURNE, equipped and ready for use.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/03/1917</date>
+            <hour></hour>
+            <summary>Captain C. BROWN attached for duty on posting from Canadian Army Dental Corps.</summary>
+        </event> 
+    </page>
+    <page name="e001518043">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/03/1917</date>
+            <hour></hour>
+            <summary>Canadian Military Hospital, EASTBOURNE, visited by Sir Robert Borden, Premier of Canada.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/03/1917</date>
+            <hour></hour>
+            <summary>Average number of patients during month—275. (Central Hospital and auxiliaries). Patients included both Local and Overseas Casualties. Strength at Date:- OFFICERS, 14. NURSING SISTERS, 20. OTHER RANKS, 118.</summary>
+        </event>  
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/04/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister P.A. IVEY ceases to be attached on posting to Daughters of the Empire Canadian Red Cross Hospital for Officers, LONDON.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>10/04/1917</date>
+            <hour></hour>
+            <summary>Major C.E. BROWN granted extension of Leave to 30/4/17.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>13/04/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister E.F. TAGGIE taken on the Strength on transfer from the King’s Canadian Red Cross Hospital, BUSHEY PARK.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/04/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters V.H. KEENE and M.I. MACROBERTS granted Leave of Absence from 16/4/17 to 30/4/17.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>18/04/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters E.L. BOYDEN, N.M. FOREMAN, and K.M. MACDONALD attached for Duty from C.A.M.C. Depot.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>20/04/1917</date>
+            <hour></hour>
+            <summary>Captains E.A. MCCUSKER and J.E. MCCORVIE attached for Duty from D.A.M.D.S., Canadians, SEAFORD.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>23/04/1917</date>
+            <hour></hour>
+            <summary>2 Other Ranks attached, for Duty with Hospital Representative.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/04/1917</date>
+            <hour></hour>
+            <summary>Hon. Captain &amp; Chaplain (Rev.) H. MONTGOMERY attached for Duty from SEAFORD AREA.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/04/1917</date>
+            <hour></hour>
+            <summary>Hon. Captain &amp; Chaplain (Rev.) J.O. MURRAY ceases to be attached on proceeding Overseas.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/04/1917</date>
+            <hour></hour>
+            <summary>6 Other Ranks attached for Duty from Eastern Ontario Regimental Depot, SEAFORD.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/04/1917</date>
+            <hour></hour>
+            <summary>Canadian Military Hospital, EASTBOURNE, inspected by Surgeon-General G.L. FOSTER, Director of Medical Services, Canadians.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/04/1917</date>
+            <hour></hour>
+            <summary>Major C.E. BROWN reported for Duty on returning from leave in Canada.</summary>
+        </event> 
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/04/1917</date>
+            <hour></hour>
+            <summary>Average number of patients during month—300. (Central Hospital and auxiliaries). Strength at date:- OFFICERS, 14. NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. NURSING SISTERS, 5. OTHER RANKS, 9.</summary>
+        </event>
+    </page>
+    <page name="e001518044">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/04/1917</date>
+            <hour></hour>
+            <summary>t frequent intervals convoys of from 30 to 50 patients boarded in Category E—for Discharge or Invaliding to Canada—sent to Liverpool for Embarkation. Medical Board, composed of Officers of Unit, authorized to categories all soldiers passing through Hospital. Special Duties of Officers as follows:- Lt.Colonel E. SEABORN, Officer Commanding. Major C.E. BROWN, Consultant in Medicine. Major J.C. WILSON, Registrar and Paymaster. Captain J.S. HUDSON, Officer i/c of Raven’s Croft Hospital, SEAFORD. Captain A. TURNER, Medical Officer (Surgeon). Captain E.H. YOUNG, Medical Officer (Mental and Nervous Cases). Captain J. MORIARTY, Medical Officer (Surgeon). Captain E. BICE, X-Ray Specialist. Captain A.E. FRALEIGH, Medical Officer. Captain R.H. HENDERSON, Eye, Ear, Nose, and Throat Specialist. Captain C.L. DOUGLAS, Pathologist. Captain C.P. JENTO, Medical Officer (Surgeon). Captain G.M. BROCK, Quartermaster. Lieut. J.A. DICKIE, Dispenser.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>02/05/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached for Duty on posting from Canadian Army Dental Corps.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>03/05/1917</date>
+            <hour></hour>
+            <summary>Canadian Military Hospital, EASTBOURNE, inspected by Quartermaster-General, Canadians, and Director of Ordnance Services, Canadians.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>05/05/1917</date>
+            <hour></hour>
+            <summary>Captain E.A. MCCUSKER ceases to be attached on posting to C.A.M.C. Depot, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/05/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached, for Duty with Hospital Representative.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/05/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank ceases to be attached on returning to Eastern Ontario Regtl. Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>08/05/1917</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN temporarily assumes the duties of Acting D.A.D.M.S. of SEAFORD Command,</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>11/05/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J. CHRISHOLM and R. MCCLELLAND attached for Duty from C.A.M.C. Depot,</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/05/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters E.J. BOWIE and F. ROADHOUSE attached for Duty on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>14/05/1917</date>
+            <hour></hour>
+            <summary>Captain J.B. HANLEY attached for Duty on posting from D.A.D.M.S., SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/05/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J. GLENDENNING and A.W. WILSON cease to be attached on posting to Daughters of the Empire Canadian Red Cross Hospital for Officers, LONDON.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/05/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength on posting from C.A.M.C. Depot, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>25/05/1917</date>
+            <hour></hour>
+            <summary>Major C. BROWN (C.A.D.C.) ceases to be attached on posting to BRAMSHOTT AREA.</summary>
+        </event>
+    </page>
+    <page name="e001518045">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/05/1917</date>
+            <hour></hour>
+            <summary>Average Number of Patients during month:—350. (Central Hospital and auxiliaries). Strength at Date:- OFFICERS, 14. NURSING SISTRS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. NURSING SISTERS, 6. OTHER RANKS, 14. 4 Female Civilian Employees taken on during the month in the capacity of Cooks and Waitresses. A considerable outbreak of Enteritis occurred amongst the personnel in the early part of the month. Cause unknown; probably contamination of water or food supply. This disease very prevalent in the surrounding camps at this time. Same was successfully checked and did not recur. Health of personnel of Unit generally very good.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>04/06/1917</date>
+            <hour></hour>
+            <summary>Captain J.L. MCLEAN attached for Duty from Canadian Army Dental Corps.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/06/1917</date>
+            <hour></hour>
+            <summary>Captain E. BICE struck off strength on posting to C.A.M.C. Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>08/06/1917</date>
+            <hour></hour>
+            <summary>Captain C.H.V. SMITH attached for Duty from Eastern Ontario Regimental Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>11/06/1917</date>
+            <hour></hour>
+            <summary>8 Other Ranks attached for Duty from B.C. Regimental Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/06/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister S.B. POPHAM proceeded on Transport Duty to Canada, H.M.H.S. “Leticia”.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/06/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters M.E. GRIERSON and D. PELLETIER attached for Duty from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/06/1917</date>
+            <hour></hour>
+            <summary>3 Other Ranks attached for Duty from C.A.S.C., SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/06/1917</date>
+            <hour></hour>
+            <summary>Other Ranks of Unit categorized by Medical Board. RESULT: Category A—105. Category B—9. Category C—3.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/06/1917</date>
+            <hour></hour>
+            <summary>Average Number of Patients during the month—450. (Central Hospital and auxiliaries). Strength at Date:- OFFICERS, 13. NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 5. NURSING SISTERS, 9. OTHER RANKS, 21. CIVILIAN EMPLOYEES, 4. Owing to the fact that the unit was administering Hospitals in five separate buildings (two at EASTBOURNE and three at SEAFORD) a larger number of men were required in the various Departments than would have been the case in one compact building or camp. Some difficulty was experienced in obtaining sufficient additional personnel to cope with the requirements. Convalescent patients were largely employed on light duties around the Hospitals.</summary>
+        </event>
+    </page>
+    <page name="e001518046">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/07/1917</date>
+            <hour></hour>
+            <summary>Major C.E. BROWN struck off the Strength on posting to C.A.M.C. Depot, SHORNCLIFFE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>08/07/1917</date>
+            <hour></hour>
+            <summary>Captain F.S. BURKE taken on the Strength on posting from C.A.M.C. Depot. (Vice Major C.E. BROWN).</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/07/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank ceases to be attached on returning from Eastern Ont. Regtl. Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/07/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached for Duty from Eastern Ont. Regtl. Depot, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/07/1917</date>
+            <hour></hour>
+            <summary>“Hawkswick” Hospital, SEAFORD, vacated by Unit, and building known as “Littlecourt”, SEAFORD, taken over in its place.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/07/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister C.A. KING Proceeded on Transport Duty to Canada. Struck off Strength of Unit on posting to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>24/07/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached for Duty from C.A.M.C. Depot, WESTENHANGER.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>25/07/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength on posting from Princess Patricia Canadian Red Cross Special Hospital, RAMSGATE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/07/1917</date>
+            <hour></hour>
+            <summary>STRENGTH AT DATE:- OFFICERS, 13. NURSING SISTERS, 16. OTHER RANKS, 118. ATTACHED:- OFFICERS, 5. NURSING SISTERS, 11. OTHER RANKS, 21. CIVILIANS, 4. Average Number of Patients during month:-450. (Central Hospital and Auxiliaries).</summary>
+        </event>
+    </page>
+</volume>
+<volume name="e001518047" id="2">
+    <page name="e001518048" id="1">
     </page>
 </volume>
