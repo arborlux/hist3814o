@@ -1,8 +1,10 @@
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Roboto', sans-serif;
+    background-color: #99ff33;
 }
 p {
     font-family: 'Montserrat', sans-serif;
+    background-color: black;
 }
 
 th {
@@ -15,6 +17,8 @@ td {
 
 body {
     text-align: center;
+    background-color: #ff9966;
+    color: white;
 }
   
 #page-wrap {
