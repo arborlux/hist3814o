@@ -4,6 +4,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Roboto', sans-serif;
+    background-color: #9acd32;
 }
 
 p {
@@ -19,6 +20,7 @@ table, td, th {
 
 th {
     font-family: 'Roboto', sans-serif;
+    background-color: #9acd32;
 }
 
 td {
@@ -34,4 +36,8 @@ tr:nth-child(even) {
     text-align: left;
     width: 800px;
     margin: 0 auto;
+}
+
+#card-paragraph {
+    background-color: #f2f2f2;
 }
