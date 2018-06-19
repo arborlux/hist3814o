@@ -3,7 +3,7 @@
 
 <volume name="e001518029" id="1">
     <date>10/05/1916 - 31/7/1917</date>
-    <page name="e001518031" id="1">
+    <page name="e001518031">
         <event>
             <place>LONDON, ONTARIO</place>
             <date>10/05/1916</date>
@@ -1372,6 +1372,148 @@
             <date>31/07/1917</date>
             <hour></hour>
             <summary>STRENGTH AT DATE:- OFFICERS, 13. NURSING SISTERS, 16. OTHER RANKS, 118. ATTACHED:- OFFICERS, 5. NURSING SISTERS, 11. OTHER RANKS, 21. CIVILIANS, 4. Average Number of Patients during month:-450. (Central Hospital and Auxiliaries).</summary>
+        </event>
+    </page>
+</volume>
+<volume name="e001518047" id="2">
+    <page name="e001518048">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/08/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank proceeded On Command to Royal Artillery Cadet School, London, N.W.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/08/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank attached for duty from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister F. COLLYER granted Leave of Absence from 6/8/17 to 22/8/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>08/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister S.B. POPHAM taken on strength on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>09/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J. JOHNSON and E.L. HIBBS attached from C.A.M.C. Depot</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>13/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters A.M. KENNEDY and L.I. THOMSON taken on the Strength on posting from Canadian Military Hospital, Basingstoke.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/08/1917</date>
+            <hour></hour>
+            <summary>Captain J.S. HUDSON struck off the strength on posting to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/08/1917</date>
+            <hour></hour>
+            <summary>Hon. Capt. & Quartermaster G.M. BROCK struck off the strength on posting to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister O.K. ISMAY granted leave of absence from 15/8/17 to 22/8/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/08/1917</date>
+            <hour></hour>
+            <summary>Hon. Lieut. & Quartermaster O.H. COATES attached from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/08/1917</date>
+            <hour></hour>
+            <summary>Captain W.E. JONES attached for Duty from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/08/1917</date>
+            <hour></hour>
+            <summary>Captain W.E. JONES proceeded “On Command” to Summerdown Convalescent Camp, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>20/08/1917</date>
+            <hour></hour>
+            <summary>Captain V.E. LATIMER attached for duty from West Cliff Canadian Hospital, FOLKESTONE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>20/08/1917</date>
+            <hour></hour>
+            <summary>Captain V.E. LATIMER proceeded “On Command” to D.A.D.M.S., Canadians, SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>17/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J. MACALLUM and A.E. WHITELY granted Leave of Absence from 17/8/17 to 3/9/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>18/08/1917</date>
+            <hour></hour>
+            <summary>Lieut. A.M. JEFFREY attached for duty from C.A.M.C. Depot,</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>20/08/1917</date>
+            <hour></hour>
+            <summary>Two Other Ranks struck off Strength on posting to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/08/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister F.M. ANDERSON taken on the Strength on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/08/1917</date>
+            <hour></hour>
+            <summary>Captains J.B. HANLEY, J.E. MCCORVIE and C.H.V. SMITH taken on the Strength, effective 14/5/17, 20/4/17 and 8/6/17 respectively. (From attachment from C.A.M.C. Depot).</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/08/1917</date>
+            <hour></hour>
+            <summary>1/9/17 - Canadian Military Hospital, EASTBOURNE and Raven’s Croft Military Hospital, SEAFORD, inspected by Surgeon-General G.C. JONES, Special Medical Commissioner.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/08/1917</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN admitted to Hospital. ENTERITIS.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/08/1917</date>
+            <hour></hour>
+            <summary>STRENGTH AT DATE:- OFFICERS, 14. NURSING SISTERS, 18. OTHER RANKS, 117. ATTACHED:- OFFICERS, 5. NURSING SISTERS, 15. OTHER RANKS, 31.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/08/1917</date>
+            <hour></hour>
+            <summary>Average Number of Patients during month:-475. (Central Hospital and Auxiliaries).</summary>
         </event>
     </page>
 </volume>
