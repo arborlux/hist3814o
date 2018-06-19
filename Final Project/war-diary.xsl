@@ -6,7 +6,6 @@
                 <h1>War Diary - 14th Canadian General Hospital</h1>
                 <p>This project aims to transcribe the scanned imaged of the No.10 Canadian Stationary Hospital war diary during the Great War and make them as accessible and open-source as possible.
                     <br />All files related to this project, including references, the scanned images, and further information can be found <a href="https://github.com/arborlux/hist3814o/tree/master/Final%20Project">here</a>.
-                    <br />The original scans are provided with Open access on the Library and Archives Canada Portal <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=2005110&rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106">here</a>
                 </p>
                 <p>The following is a transcription of the foreword from the war diary:</p>
                 <h2>EVENTS LEADING TO FORMATION OF UNIT.</h2>
