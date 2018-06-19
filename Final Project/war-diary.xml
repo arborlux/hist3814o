@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="war-diary.xsl"?>
 
 <volume name="e001518029" id="1">
-    <date>10/05/1916 - 31/7/1917</date>
+    <date>10/05/1916 - 31/07/1917</date>
     <page name="e001518031">
         <event>
             <place>LONDON, ONTARIO</place>
@@ -38,7 +38,7 @@
             <place>LONDON, ONTARIO</place>
             <date>10/05/1916</date>
             <hour></hour>
-            <summary>Hon.Capt. &amp;amp; Quartermaster G.M.BROCK taken on the strength.</summary>
+            <summary>Hon.Capt. &amp; Quartermaster G.M.BROCK taken on the strength.</summary>
         </event>
         <event>
             <place>LONDON, ONTARIO</place>
@@ -1143,13 +1143,13 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>27/04/1917</date>
             <hour></hour>
-            <summary>Hon. Captain &amp;amp; Chaplain (Rev.) H. MONTGOMERY attached for Duty from SEAFORD AREA.</summary>
+            <summary>Hon. Captain &amp; Chaplain (Rev.) H. MONTGOMERY attached for Duty from SEAFORD AREA.</summary>
         </event> 
         <event>
             <place>EASTBOURNE, SUSSEX</place>
             <date>27/04/1917</date>
             <hour></hour>
-            <summary>Hon. Captain &amp;amp; Chaplain (Rev.) J.O. MURRAY ceases to be attached on proceeding Overseas.</summary>
+            <summary>Hon. Captain &amp; Chaplain (Rev.) J.O. MURRAY ceases to be attached on proceeding Overseas.</summary>
         </event> 
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1376,6 +1376,7 @@
     </page>
 </volume>
 <volume name="e001518047" id="2">
+    <date>06/05/1917 - 31/05/1917</date>
     <page name="e001518048">
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1423,7 +1424,7 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>15/08/1917</date>
             <hour></hour>
-            <summary>Hon. Capt. & Quartermaster G.M. BROCK struck off the strength on posting to C.A.M.C. Depot.</summary>
+            <summary>Hon. Capt. &amp; Quartermaster G.M. BROCK struck off the strength on posting to C.A.M.C. Depot.</summary>
         </event>
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1435,7 +1436,7 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>16/08/1917</date>
             <hour></hour>
-            <summary>Hon. Lieut. & Quartermaster O.H. COATES attached from C.A.M.C. Depot.</summary>
+            <summary>Hon. Lieut. &amp; Quartermaster O.H. COATES attached from C.A.M.C. Depot.</summary>
         </event>
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1514,6 +1515,155 @@
             <date>31/08/1917</date>
             <hour></hour>
             <summary>Average Number of Patients during month:-475. (Central Hospital and Auxiliaries).</summary>
+        </event>
+    </page>
+</volume>
+<volume name="e001518049">
+    <date>01/09/1917 - 30/09/1917</date>
+    <page name="e001518050">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/09/1917</date>
+            <hour></hour>
+            <summary>Captain F.S. BURKE promoted Temp.Major, C.A.M.C., C.E.F., effective 8/7/17. (Auth. Corps Order</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/09/1917</date>
+            <hour></hour>
+            <summary>Lt.Col. E. SEABORN admitted to Hospital, 30/8/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/09/1917</date>
+            <hour></hour>
+            <summary>Hon. Lieut. J.A. DICKIE stuck off the Strength on posting to C.A.M.C. Depot, 31/8/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister M.E. MAILLARD taken on the Strength, 29/8/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>03/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister W. BARRIE Taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister F.M. ANDERSON struck off the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>10/09/1917</date>
+            <hour></hour>
+            <summary>Captain W.H. EAGAR taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>10/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister E.A. DAVIES granted leave from 10/9/17 to 27/9/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>11/09/1917</date>
+            <hour></hour>
+            <summary>Captain Robert HENDERSON taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>11/09/1917</date>
+            <hour></hour>
+            <summary>Captain J. MORIARTY struck off the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister A.L. MCPHEE struck off the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>14/09/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister E.F. TAGGIE granted leave from 14/9/17 to 1/10/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/09/1917</date>
+            <hour></hour>
+            <summary>Ten Other Ranks taken on the Strength, on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/09/1917</date>
+            <hour></hour>
+            <summary>One Other Rank attached for duty.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>20/09/1917</date>
+            <hour></hour>
+            <summary>Captain A. TURNER struck off the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>25/09/1917</date>
+            <hour></hour>
+            <summary>One Other Rank ceases to be attached.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/09/1917</date>
+            <hour></hour>
+            <summary>Lt.Colonel E. SEABORN discharged from Hospital and granted Sick Leave from 26/9/17 to 26/10/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/09/1917</date>
+            <hour></hour>
+            <summary>Major F.S. BURKE struck off the Strength on posting to Headquarters, SEAFORD, 8/7/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/09/1917</date>
+            <hour></hour>
+            <summary>Twelve other Ranks taken on the Strength on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/09/1917</date>
+            <hour></hour>
+            <summary>Matron K. DULMAGE granted leave from 28/9/17 to 19/10/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>28/09/1917</date>
+            <hour></hour>
+            <summary>Twenty-Six Other Ranks attached from Granville Canadian Special Hospital, RAMSGATE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/09/1917</date>
+            <hour></hour>
+            <summary>Captain J.O. BAKER taken on the Strength on posting from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/09/1917</date>
+            <hour></hour>
+            <summary>Captains W.F. KENNEY, T.G. MACDONALD, J.G.R. STONE and W.J.H. GOULD attached from Granville Canadian Special Hospital, RAMSGATE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/09/1917</date>
+            <hour></hour>
+            <summary>STRENGTH AT DATE:- OFFICERS, 15. NURSING SISTERS, 32. OTHER RANKS, 127.  ATTACHED:- OFFICERS, 2. OTHER RANKS, 28. Average Number of Patients for Month:—475. (Central Hospital and Auxiliaries).</summary>
         </event>
     </page>
 </volume>
