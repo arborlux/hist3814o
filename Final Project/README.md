@@ -11,7 +11,7 @@ I have transcribed the entries into plaintext from their original scanned image 
 I am using Extensible Markup Language to markup the plaintext entries in order to manage the data and I am using Extensible Stylesheet Language Transformations to transform the aforementioned XML into HTML and style it. 
 
 ### Viewing
-* View the project fully marked up [here][10]
+* View the project's GitHub Page with it fully marked up [here][10]
 * View the diaries in plaintext with XML markup [here][2]
 * View all of the diary entries in their original state [here][3]
 
