@@ -1377,6 +1377,11 @@
 </volume>
 <volume name="e001518047" id="2">
     <page name="e001518048" id="1">
-
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/08/1917</date>
+            <hour></hour>
+            <summary></summary>
+        </event>
     </page>
 </volume>
