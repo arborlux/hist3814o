@@ -12,7 +12,7 @@ I am using Extensible Markup Language to markup the plaintext entries in order t
 
 ### Viewing
 * View the diaries in plaintext with XML markup [here][2]
-* View all of the diary entries in their original state [here](/war-diary/)
+* View all of the diary entries in their original state [here][3]
 
 ### Supporting Reference Guides
 1. [Applied Archival Downloading with Wget][4] at the Programming Historian for how I scraped the War Diary. 
@@ -41,8 +41,8 @@ Patrick Griffith
 Please note this project has a [GNU General Public License v3.0][9].
 
 [1]: http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=2005110&rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106
-
 [2]: war-diary.xml
+[3]: war-diary/
 [4]: https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget
 [5]: http://workbook.craftingdigitalhistory.ca/supporting%20materials/tei/
 [6]: http://openrefine.org/
