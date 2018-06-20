@@ -20,7 +20,11 @@ I am using Extensible Markup Language to markup the plaintext entries in order t
 2. [Close Reading with TEI (Text Encoding Initiative)][5] adapted by Dr. Graham and originally by M.H.Beals for how to use XML and XSLT for plaintext markup. 
 
 ### Future Ideas
-For authenticity sake the text has been transcribed as close as possible to the original text. However, the spelling of some names and places are inconsistent across entries. A program like [Open Refine][6] could be used to harmonize this data.
+1. For authenticity sake the text has been transcribed as close as possible to the original text. However, the spelling of some names and places are inconsistent across entries. A program like [Open Refine][6] could be used to harmonize this data.
+2. Modify the XML markup of the diary by encoding the text with new tags that can be used for sorting, searching, reporting against, etc. Some ideas (co-opted from Dr. Grahams [TEI exercise][13]):
+    * Encode each person's name with a new `<person>` tag.
+    * Encode each location with a new `<location>` tag.
+    * Guidelines for the Text Encoding Initiative can be found [here][14].
 
 ### Contributions
 This project accepts community contributions through GitHub, following the [inbound=outbound][7] model as described in the [GitHub Terms of Service][8]:
@@ -34,6 +38,10 @@ Feel free to open an issue to discuss possible ideas for extending this project 
 1. Library and Archives Canada, "War diaries - 14th Canadian General Hospital = Journal de guerre - 14e Hôpital général canadien," http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=2005110&rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106
 2. Kellen Kurschinski, "Applied Archival Downloading with Wget," The Programming Historian 2 (2013), https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget.
 3. Shawn Graham, "lose Reading with TEI (Text Encoding Initiative)," HIST3814o Crafting Digital History (2018), http://workbook.craftingdigitalhistory.ca/supporting%20materials/tei/.
+
+### Special Thanks
+
+A big thank you to [Lauren Rollit][15] for providing OCR cleaned transcriptions of the war diary entries on her [GitHub][16]. I had originally transcribed the first volume by hand since I found the OCR cleaning was causing more issues than solving. It really helped!
 
 ### Author
 Patrick Griffith
@@ -53,3 +61,7 @@ Please note this project has a [GNU General Public License v3.0][9].
 [10]: https://arborlux.github.io/hist3814o/Final%20Project/war-diary.xml
 [11]: https://arborlux.github.io/hist3814o/Final%20Project/war-diary.xml
 [12]: http://site.craftingdigitalhistory.ca/final-project-1.html
+[13]: http://workbook.craftingdigitalhistory.ca/supporting%20materials/tei/#encoding-your-transcription
+[14]: http://www.tei-c.org/Guidelines/P5/
+[15]: https://github.com/laurenrollit
+[16]: https://github.com/laurenrollit/hist3814o-final-project
