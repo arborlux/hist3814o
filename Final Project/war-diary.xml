@@ -1674,7 +1674,7 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>01/10/1917</date>
             <hour></hour>
-            <summary>No.14 Canadian General Hospital (Establishment 520 beds) authorized as from 10th Sept./1917. Hospital temporarily staffed by Officers, Nursing Sisters and Other Ranks carried on the Strength of No.10 Canadian Stationary Hospital. LT.COL E. SEABORN, MAJOR J.C. WILSON, CAPTS. W.H. EAGAR, A.E. RALEIGH, E.H. YOUNG, R.H. HENDERSON, C.L. DOUGLAS, C.P. JENTO, J.B. HANLEY, ROBT. HENDERSON, C.H.V. SMITH and J.E. MCCORVIE, Capts. W.E. JONES and V.E. LATER taken on the Strength from No.10 Canadian Stationary Hospital, with effect from 24/9/17. Lieut. A.M. JEFFERY and Hon. Lieut. & Q.M., A.H. COATES taken on the Strength from No.10 Canadian Stationary Hospital, with effect 24/9/17. CAPT. J.O. BAKER taken on the Strength from C.A.M.C. Depot, with effect 29/9/17. CAPTAINS M.C. WALLACE and J. MCKEE attached from C.A.M.C. Depot (for duty with Medical Board, Seaford) with effect 31/10/17. CAPTAINS T.J. MAC DONALD and W.J.H. GOULD attached for Duty, with effect 29/9/17. LT.COL. E. SEABORN granted Sick Leave from 26/9/17 to 26/10/17. MAJOR J.C. WILSON Acting Officer Commanding during this period.</summary>
+            <summary>No.14 Canadian General Hospital (Establishment 520 beds) authorized as from 10th Sept./1917. Hospital temporarily staffed by Officers, Nursing Sisters and Other Ranks carried on the Strength of No.10 Canadian Stationary Hospital. LT.COL E. SEABORN, MAJOR J.C. WILSON, CAPTS. W.H. EAGAR, A.E. RALEIGH, E.H. YOUNG, R.H. HENDERSON, C.L. DOUGLAS, C.P. JENTO, J.B. HANLEY, ROBT. HENDERSON, C.H.V. SMITH and J.E. MCCORVIE, Capts. W.E. JONES and V.E. LATER taken on the Strength from No.10 Canadian Stationary Hospital, with effect from 24/9/17. Lieut. A.M. JEFFERY and Hon. Lieut. &amp; Q.M., A.H. COATES taken on the Strength from No.10 Canadian Stationary Hospital, with effect 24/9/17. CAPT. J.O. BAKER taken on the Strength from C.A.M.C. Depot, with effect 29/9/17. CAPTAINS M.C. WALLACE and J. MCKEE attached from C.A.M.C. Depot (for duty with Medical Board, Seaford) with effect 31/10/17. CAPTAINS T.J. MAC DONALD and W.J.H. GOULD attached for Duty, with effect 29/9/17. LT.COL. E. SEABORN granted Sick Leave from 26/9/17 to 26/10/17. MAJOR J.C. WILSON Acting Officer Commanding during this period.</summary>
         </event>
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1710,13 +1710,239 @@
             <place>EASTBOURNE, SUSSEX</place>
             <date>17/10/1917</date>
             <hour></hour>
-            <summary>CAPT. W. CURTIS, CAPT. J.L. MCLEAN, HON. CAPT. & CHAPLAIN H. MONTGOMERY attached for Duty from No.10 Canadian Stationary Hospital.</summary>
+            <summary>CAPT. W. CURTIS, CAPT. J.L. MCLEAN, HON. CAPT. &amp; CHAPLAIN H. MONTGOMERY attached for Duty from No.10 Canadian Stationary Hospital.</summary>
         </event>
         <event>
             <place>EASTBOURNE, SUSSEX</place>
             <date>17/10/1917</date>
             <hour></hour>
             <summary>10 Other Ranks attached from No.10 Canadian Stationary Hospital.</summary>
+        </event>
+    </page>
+    <page name="e001518053">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/10/1917</date>
+            <hour></hour>
+            <summary>25 Other Ranks taken on the Strength from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/10/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank ceases to be attached.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/10/1917</date>
+            <hour></hour>
+            <summary>25 Other Ranks taken on the Strength from D.A.D.M.S., Shoreham.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/10/1917</date>
+            <hour></hour>
+            <summary>11 Other Ranks struck off Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/10/1917</date>
+            <hour></hour>
+            <summary>10 other Ranks proceeded on Command to D.A.D.M.S., SEAFORD.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>31/10/1917</date>
+            <hour></hour>
+            <summary>STRENGTH AT DATE:- OFFICERS, 17. NURSING SISTERS, 34. OTHER RANKS, 140. AVERAGE NUMBER OF PATIENTS DURING MONTH:-450.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>01/11/1917</date>
+            <hour></hour>
+            <summary>3 Other Ranks taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>04/11/1917</date>
+            <hour></hour>
+            <summary>3 Other Ranks stuck off the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>05/11/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>07/11/1917</date>
+            <hour></hour>
+            <summary>Capt. A.W. HUNTER attached from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>03/11/1917</date>
+            <hour></hour>
+            <summary>NURSING SISTERS F.M. ANDERSON and A.L. MCPHEE taken on the Strength from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>05/11/1917</date>
+            <hour></hour>
+            <summary>NURSING SISTERS E.L. BOYDEN, F. COLLIER and A. HICKS struck off the Strength on proceeding Overseas,</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>06/11/1917</date>
+            <hour></hour>
+            <summary>CAPTAIN C.L. DOUGLAS stuck off the Strength on posting to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>09/11/1917</date>
+            <hour></hour>
+            <summary>CAPTAIN R.H. HENDERSON proceeded On Command to No.15 Canadian General Hospital, TAPLOW.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister L.I. THOMSON stuck off the Strength to No.12 Can. General Hospital, BRAMSHOTT.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>12/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister K.J. BOWIE and F.M. ROADHOUSE granted Leave from 12/11/17 to 29/11/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>14/11/1917</date>
+            <hour></hour>
+            <summary>CAPT. ROBT. HENDERSON stuck off the Strength to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>15/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters K.L. Hibbs and J. JOHNSTON Struck off the Strength to No.5 Can. Gen. Hpl., Liverpool.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>16/11/1917</date>
+            <hour></hour>
+            <summary>Captain J.L. WALKER attached from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>17/11/1917</date>
+            <hour></hour>
+            <summary>CAPTAIN A.E. FRALEIGH struck off the strength to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>19/11/1917</date>
+            <hour></hour>
+            <summary>CAPTAIN C.P. JENTO struck off the Strength to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>21/11/1917</date>
+            <hour></hour>
+            <summary>HON. CAPT. &amp; Q.M., G.M. BROCK taken on the Strength to C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>22/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister M.I. MACROBERTS struck off the Strength on proceeding Overseas.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>24/11/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/11/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/11/1917</date>
+            <hour></hour>
+            <summary>Captains A.B. SIMES and A.E. WALKEY taken on the Strength.</summary>
+        </event>
+    </page>
+    <page name="e001518054">
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>26/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sisters J.H. BARRON and E.J. PATTERSON taken on the Strength from C.A.M.C. Depot.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/11/1917</date>
+            <hour></hour>
+            <summary>Nursing Sister G.A. CONNOR taken on the Strength from No.16 Can. General Hospital.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>27/11/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank taken on the Strength from D.A.D.M.S., Seaford.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>28/11/1917</date>
+            <hour></hour>
+            <summary>LT.COLONEL K.D. PANTON, CAPTAINS C.D. HEWETT, A.E. WOOD, C.J. WHEATEN, A.J.B. HEBERT, LIEUT. W.C. PAGE, NURSING SISTERS E.M. HOGAN, L.E. BAKER, M. LOWE, M. MATTHEWS, C. MCKAY, K.J. LINDSAY, M. MASON, K.G. MILLER and H.M.B. ACTON, and 69 other Ranks taken on the Strength. HON. CAPT. &amp; CHAPLAIN J.K. TIBET’S attached for Duty. “ 28/11/17 - CAPTAIN W.H. EAGAR struck off the Strength to Granville Canadian Special Hospital, BUXTON.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>28/11/1917</date>
+            <hour></hour>
+            <summary>CAPTAIN W.H. EAGAR struck off the Strength to Granville Canadian Special Hospital, BUXTON.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/11/1917</date>
+            <hour></hour>
+            <summary>LT. COLONEL K.D. PANTON assumes Command of No.15 Canadian General Hospital, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/11/1917</date>
+            <hour></hour>
+            <summary>LT. COLONEL E. SEABORN ceases to command No.14 Canadian General Hospital, EASTBOURNE.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/11/1917</date>
+            <hour></hour>
+            <summary>LT.COLONEL E. SEABORN, MAJOR J.C. WILSON, CAPTAINS E.H. YOUNG, R.H. HENDERSON, A.B. SIMES, C.J. WHEATEN, A.J. HEBERT, J.E. MCCORVIE, A.E. WOOD, J.L. WALKER, A.E. WALKEY, Q.M. &amp; HON. CAPT. G.M. BROCK, LIEUT. W.C. PAGE, MATRON H.K. DULMAGE, NURSING SISTERS H.M.B. ACTON, M. MATTHEWS, M.B. MONTEITH, F.S. MUTCH, M. MASON, K.J. MILLER, J. MACALLUM, C. MCKAY, D. PELLETIER, B.M. RICHARD, A.K. WHITELY, B.M. WILSON, G. WOODCOCK, K.E. WHITE, and 116 Other Ranks struck off the Strength on posting to No.10 Canadian Stationary Hospital, with effect 29/11/17.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/11/1917</date>
+            <hour></hour>
+            <summary>HON.CAPT. &amp; CHAPLAIN J.K. TIDBITS ceases to be attached on attachment to No.10 Can. Stat. Hpl.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>29/11/1917</date>
+            <hour></hour>
+            <summary>1 Other Rank (C.A.D.C.) ceases to be attached on attachment to No.10 Can. Stationary Hospital.</summary>
+        </event>
+        <event>
+            <place>EASTBOURNE, SUSSEX</place>
+            <date>30/11/1917</date>
+            <hour></hour>
+            <summary>All personnel of No.10 Canadian Stationary Hospital, comprising 15 Officers, 30 Nursing Sisters and 118 Other Ranks, remain attached to No.14 Canadian General Hospital for purposes of Quarters and Rations. AVERAGE NUMBER OF PATIENTS DURING MONTH:-460. (Central hospital, Eastbourne, and auxiliaries at Seaford, viz. RAVEN’S CROFT, SOUTHLANDS, and LITTLECOURT).</summary>
         </event>
     </page>
 </volume>
