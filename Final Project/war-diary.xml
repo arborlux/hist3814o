@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="war-diary.xsl"?>
 
-<volume name="e001518029">
-    <date>10/05/1916 - 31/07/1917</date>
+<!-- <volume name="e001518029">
+    <date>10/05/1916 - 31/07/1917</date> -->
     <page name="e001518031">
         <event>
             <place>LONDON, ONTARIO</place>
@@ -1374,9 +1374,9 @@
             <summary>STRENGTH AT DATE:- OFFICERS, 13. NURSING SISTERS, 16. OTHER RANKS, 118. ATTACHED:- OFFICERS, 5. NURSING SISTERS, 11. OTHER RANKS, 21. CIVILIANS, 4. Average Number of Patients during month:-450. (Central Hospital and Auxiliaries).</summary>
         </event>
     </page>
-</volume>
+<!-- </volume>
 <volume name="e001518047">
-    <date>06/05/1917 - 31/05/1917</date>
+    <date>06/05/1917 - 31/05/1917</date> -->
     <page name="e001518048">
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1517,9 +1517,9 @@
             <summary>Average Number of Patients during month:-475. (Central Hospital and Auxiliaries).</summary>
         </event>
     </page>
-</volume>
-<volume name="e001518049">
-    <date>01/09/1917 - 30/09/1917</date>
+<!-- </volume> -->
+<!--  <volume name="e001518049">
+    <date>01/09/1917 - 30/09/1917</date> -->
     <page name="e001518050">
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1666,9 +1666,9 @@
             <summary>STRENGTH AT DATE:- OFFICERS, 15. NURSING SISTERS, 32. OTHER RANKS, 127.  ATTACHED:- OFFICERS, 2. OTHER RANKS, 28. Average Number of Patients for Month:—475. (Central Hospital and Auxiliaries).</summary>
         </event>
     </page>
-</volume>
-<volume name="e001518051">
-    <date>01/10/1917 - 30/11/1917</date>
+<!--  </volume> -->
+<!--  <volume name="e001518051">
+    <date>01/10/1917 - 30/11/1917</date> -->
     <page name="e001518052">
         <event>
             <place>EASTBOURNE, SUSSEX</place>
@@ -1945,4 +1945,4 @@
             <summary>All personnel of No.10 Canadian Stationary Hospital, comprising 15 Officers, 30 Nursing Sisters and 118 Other Ranks, remain attached to No.14 Canadian General Hospital for purposes of Quarters and Rations. AVERAGE NUMBER OF PATIENTS DURING MONTH:-460. (Central hospital, Eastbourne, and auxiliaries at Seaford, viz. RAVEN’S CROFT, SOUTHLANDS, and LITTLECOURT).</summary>
         </event>
     </page>
-</volume>
+<!-- </volume> -->
