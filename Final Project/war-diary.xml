@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="war-diary.xsl"?>
 
 <diary>
-    <volume name="e001518029">
+    <volume name="e001518029" id="1">
         <date>10/05/1916 - 31/07/1917</date>
-        <page name="e001518031">
+        <page name="e001518031" id="1">
             <event>
                 <place>LONDON, ONTARIO</place>
                 <date>10/05/1916</date>
@@ -132,7 +132,7 @@
                 <summary>7 Recruits taken on the Strength.</summary>
             </event>
         </page>
-        <page name="e001518032">
+        <page name="e001518032" id="2">
             <event>
                 <place>LONDON, ONTARIO</place>
                 <date>22/05/1916</date>
@@ -194,7 +194,7 @@
                 <summary>Syllabus of Training during month included Squad and Company Drill, Stretcher Exercises, Route Marches, Lectures on First Aid, Bandaging, Sanitation and Hygiene.</summary>
             </event>  
         </page>
-        <page name="e001518033">
+        <page name="e001518033" id="3">
             <event>
                 <place>LONDON, ONTARIO</place>
                 <date>01/06/1916</date>
@@ -328,7 +328,7 @@
                 <summary>1 Other Rank struck off strength on Discharge as underage.</summary>
             </event>
         </page>
-        <page name="e001518034">
+        <page name="e001518034" id="4">
             <event>
                 <place>LONDON, ONTARIO</place>
                 <date>27/06/1916</date>
@@ -390,7 +390,7 @@
                 <summary>Instructions received from A.A.G., No.1 Mil. Dist., that Unit leave LONDON, ONT., at 12.20 P.M., August 18th/1916, via G.T.R.</summary>
             </event>
         </page>
-        <page name="e001518035">
+        <page name="e001518035" id="5">
             <event>
                 <place>LONDON, ONTARIO</place>
                 <date>16/08/1916</date>
@@ -501,7 +501,7 @@
                 <summary>One Casualty having occurred En Route, Strength at this date was - OFFICERs-14. OTHER RANKS-117.</summary>
             </event>
         </page>
-        <page name="e001518036">
+        <page name="e001518036" id="6">
             <event>
                 <place>SHORNCLIFFE, KENT</place>
                 <date>05/09/1916</date>
@@ -605,7 +605,7 @@
                 <summary>CLIMATIC CONDITIONS - Weather warm throughout month, with considerable amount of rain. Camp muddy at times but owing to altitude and sandy nature of soil no serious inconvenience resulted. Edwin Seaborn Lt.Colonel, Cmdg.No.10 Stationary Hospital, C.E.F.</summary>
             </event>
         </page>
-        <page name="e001518037">
+        <page name="e001518037" id="7">
             <event>
                 <place>SHORNCLIFFE, KENT</place>
                 <date>05/10/1916</date>
@@ -667,7 +667,7 @@
                 <summary>Air Raid warnings frequent, but at no time, so far as is known, were hostile aircraft in the immediate vicinity of the camp. Edwin Seaborn Lt.Colonel, Cmdg.No.10 Canadian Stationary Hospital.</summary>
             </event>
         </page>
-        <page name="e001518038">
+        <page name="e001518038" id="8">
             <event>
                 <place>SHORNCLIFFE, KENT</place>
                 <date>01/11/1916</date>
@@ -759,7 +759,7 @@
                 <summary>Many new Battalions arrived in camp direct from Canada during the month. A high rate of sickness developed amongst these new arrivals, due largely to the unaccustomed dampness of the English climate.</summary>
             </event>
         </page>
-        <page name="e001518039">
+        <page name="e001518039" id="9">
             <event>
                 <place>SEAFOOD, SUSSEX</place>
                 <date>30/11/1916</date>
@@ -821,7 +821,7 @@
                 <summary>Personnel present at date:- OFFICERS, 6; NURSING SISTERS, 6; OTHER RANKS, 47.</summary>
             </event>
         </page>
-        <page name="e001518040">
+        <page name="e001518040" id="10">
             <event>
                 <place>SEAFOOD, SUSSEX</place>
                 <date>06/01/1917</date>
@@ -907,7 +907,7 @@
                 <summary>Nursing Sisters J. GLENDENNING, P.A. IVEY, M.F. PARKING attached for duty from C.A.M.C. Training School.</summary>
             </event>
         </page>
-        <page name="e001518041">
+        <page name="e001518041" id="11">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>30/01/1917</date>
@@ -999,7 +999,7 @@
                 <summary>Nursing Sisters C.A. KING, S.B. POPHAM and A.E. WHITELY granted Leave of Absence from 24/2/17 to 10/3/17.</summary>
             </event>
         </page>
-        <page name="e001518042">
+        <page name="e001518042" id="12">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>26/02/1917</date>
@@ -1085,7 +1085,7 @@
                 <summary>Captain C. BROWN attached for duty on posting from Canadian Army Dental Corps.</summary>
             </event> 
         </page>
-        <page name="e001518043">
+        <page name="e001518043" id="13">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>16/03/1917</date>
@@ -1177,7 +1177,7 @@
                 <summary>Average number of patients during month—300. (Central Hospital and auxiliaries). Strength at date:- OFFICERS, 14. NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. NURSING SISTERS, 5. OTHER RANKS, 9.</summary>
             </event>
         </page>
-        <page name="e001518044">
+        <page name="e001518044" id="14">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>30/04/1917</date>
@@ -1257,7 +1257,7 @@
                 <summary>Major C. BROWN (C.A.D.C.) ceases to be attached on posting to BRAMSHOTT AREA.</summary>
             </event>
         </page>
-        <page name="e001518045">
+        <page name="e001518045" id="15">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>31/05/1917</date>
@@ -1319,7 +1319,7 @@
                 <summary>Average Number of Patients during the month—450. (Central Hospital and auxiliaries). Strength at Date:- OFFICERS, 13. NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 5. NURSING SISTERS, 9. OTHER RANKS, 21. CIVILIAN EMPLOYEES, 4. Owing to the fact that the unit was administering Hospitals in five separate buildings (two at EASTBOURNE and three at SEAFORD) a larger number of men were required in the various Departments than would have been the case in one compact building or camp. Some difficulty was experienced in obtaining sufficient additional personnel to cope with the requirements. Convalescent patients were largely employed on light duties around the Hospitals.</summary>
             </event>
         </page>
-        <page name="e001518046">
+        <page name="e001518046" id="16">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>07/07/1917</date>
@@ -1376,9 +1376,9 @@
             </event>
         </page>
     </volume>
-    <volume name="e001518047">
+    <volume name="e001518047" id="2">
         <date>06/05/1917 - 31/05/1917</date>
-        <page name="e001518048">
+        <page name="e001518048" id="1">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>06/08/1917</date>
@@ -1519,9 +1519,9 @@
             </event>
         </page>
     </volume>
-    <volume name="e001518049">
+    <volume name="e001518049" id="3">
         <date>01/09/1917 - 30/09/1917</date>
-        <page name="e001518050">
+        <page name="e001518050" id="1">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>01/09/1917</date>
@@ -1668,9 +1668,9 @@
             </event>
         </page>
     </volume>
-    <volume name="e001518051">
+    <volume name="e001518051" id="4">
         <date>01/10/1917 - 30/11/1917</date>
-        <page name="e001518052">
+        <page name="e001518052" id="1">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>01/10/1917</date>
@@ -1720,7 +1720,7 @@
                 <summary>10 Other Ranks attached from No.10 Canadian Stationary Hospital.</summary>
             </event>
         </page>
-        <page name="e001518053">
+        <page name="e001518053" id="2">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>29/10/1917</date>
@@ -1878,7 +1878,7 @@
                 <summary>Captains A.B. SIMES and A.E. WALKEY taken on the Strength.</summary>
             </event>
         </page>
-        <page name="e001518054">
+        <page name="e001518054" id="3">
             <event>
                 <place>EASTBOURNE, SUSSEX</place>
                 <date>26/11/1917</date>

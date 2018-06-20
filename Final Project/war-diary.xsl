@@ -27,13 +27,13 @@
                             <th>Date</th>
                             <th>Summary</th>
                         </tr>
-                        <xsl:for-each select="volume/page/event">
+                        <xsl:for-each select="diary/volume/page/event">
                             <tr>
                                 <td><xsl:value-of select="place"/></td>
                                 <td><xsl:value-of select="date"/></td>
                                 <td><xsl:value-of select="summary"/></td>
                             </tr>
-                        </xsl:for-each>              
+                        </xsl:for-each>
                     </table>
                 </div>
             </body>
