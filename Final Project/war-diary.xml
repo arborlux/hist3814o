@@ -759,7 +759,7 @@
         </event>
     </page>
     <page name="e001518039">
-    <event>
+        <event>
             <place>SEAFOOD, SUSSEX</place>
             <date>30/11/1916</date>
             <hour></hour>
@@ -1176,6 +1176,7 @@
             <summary>Average number of patients during month—300. (Central Hospital and auxiliaries). Strength at date:- OFFICERS, 14. NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. NURSING SISTERS, 5. OTHER RANKS, 9.</summary>
         </event>
     </page>
+    <!--
     <page name="e001518044">
         <event>
             <place>EASTBOURNE, SUSSEX</place>
