@@ -41,6 +41,8 @@ Feel free to open an issue to discuss possible ideas for extending this project 
 
 ### Special Thanks
 
+A big thank you to [Lauren Rollit][15] for providing OCR cleaned transcriptions of the war diary entries on her [GitHub][16]. I had originally transcribed the first volume by hand since I found the OCR cleaning was causing more issues than solving. It really helped!
+
 ### Author
 Patrick Griffith
 
@@ -61,3 +63,5 @@ Please note this project has a [GNU General Public License v3.0][9].
 [12]: http://site.craftingdigitalhistory.ca/final-project-1.html
 [13]: http://workbook.craftingdigitalhistory.ca/supporting%20materials/tei/#encoding-your-transcription
 [14]: http://www.tei-c.org/Guidelines/P5/
+[15]: https://github.com/laurenrollit
+[16]: https://github.com/laurenrollit/hist3814o-final-project
