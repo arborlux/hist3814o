@@ -27,7 +27,7 @@
                             <th>Date</th>
                             <th>Summary</th>
                         </tr>
-                        <xsl:for-each select="page/event">
+                        <xsl:for-each select="volume/page/event">
                             <tr>
                                 <td><xsl:value-of select="place"/></td>
                                 <td><xsl:value-of select="date"/></td>
