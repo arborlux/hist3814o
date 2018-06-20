@@ -21,22 +21,22 @@
                         <p>Accordingly further urgent representations were made to Ottawa in March, 1916, with the result that authority was received to mobilize the Western University Hospital, officially known No.10 Stationary Hospital, C.E.F.</p>
                         <p>Edwin Seaborn, M.D., a graduate of the University and long associated with its School of medicine and Surgery, was nominated by the Board of Governors as Officer Commanding the Unit, and in due course the appointment was approved by Militia Headquarters, Ottawa.</p>
                     </div>
-                    <table>
-                        <tr>
-                            <th>Place</th>
-                            <th>Date</th>
-                            <th>Summary</th>
-                        </tr>
-                        <xsl:for-each select="volume/">
+                    <xsl:for-each select="volume/">
+                        <table>
+                            <tr>
+                                <th>Place</th>
+                                <th>Date</th>
+                                <th>Summary</th>
+                            </tr>
                             <xsl:for-each select="page/event">
                                 <tr>
                                     <td><xsl:value-of select="place"/></td>
                                     <td><xsl:value-of select="date"/></td>
                                     <td><xsl:value-of select="summary"/></td>
                                 </tr>
-                            </xsl:for-each>
-                        </xsl:for-each>
-                    </table>
+                            </xsl:for-each>              
+                        </table>
+                    </xsl:for-each>
                 </div>
             </body>
         </html>
