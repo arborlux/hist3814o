@@ -22,7 +22,5 @@ For my final project I decided to make use of the exercises from Module 2 and tr
 
 Patrick Griffith.
 
-Check out my [blog](http://patrickgriffith.ca) for this course.
-
 [0]: http://site.craftingdigitalhistory.ca/
 [1]: https://carleton.ca/
